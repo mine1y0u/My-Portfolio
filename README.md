@@ -18,7 +18,7 @@
 ---
 
 ### 📁 Contents
-- `main-projects/` — Folder for main or collaborative projects  
+- `main-projects/` — Folder for the main/big  projects  
 - `mini-projects/` — Folder for smaller projects 
 
 ---
