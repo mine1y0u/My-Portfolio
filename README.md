@@ -37,7 +37,7 @@
 ## 🚀 Main Projects
 
 ### 📍[**LearnifyHub — Innovative Interactive Product** *(Collaborative Work)*](https://github.com/mine1y0u/My-Portfolio/tree/main/main-projects/1.%20LearnifyHub)
-
+<p><sub>⭐ <i>Recommended project to check out</i></sub></p>
 <p align="justify">A collaborative project from my <b>Human Computer Interaction</b> course, created using <b>Figma</b>. I designed the selected theme, layout, and UI for our interactive product named <b><i>"LearnifyHub"</i></b>. It is an interactive mobile application designed as a one-stop-shop platform for various study enrichment tools. While each member was tasked to create their own design proposal, the one I made was chosen and used as the final product. The Double Diamond Design Process was applied throughout the project.</p>
 
 ---
@@ -49,11 +49,11 @@
 ---
 
 ### 📍 [**E-Service Citizen Portal** *(Collaborative Work)*](https://github.com/mine1y0u/My-Portfolio/tree/main/main-projects/3.%20E-Service%20Citizen%20Portal)
-
-<p align="justify">A collaborative project for both <b>Web Development</b> and <b>Human Computer Interaction</b> course. It was built using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, and designed in <b>Figma</b> for mockups and UI planning. This project is a website made for a local municipality or community, offering service request forms and a status tracker for submitted requests.</p>
+<p><sub>⭐ <i>Recommended project to check out</i></sub></p>
+<p align="justify">A collaborative project for both <b>Web Development</b> and <b>Human Computer Interaction</b> courses. It was built using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b>, and <b>MySQL</b> for the database, and designed in <b>Figma</b> for mockups and UI planning. This project is a website made for a local municipality or community, offering service request forms and a status tracker for submitted requests.</p>
 
 #### 💻 Web Development Contributions:
-- Assisted heavily with **CSS styling** and the **overall visual design**
+- Assisted heavily with **CSS styling**, **overall visual design**, and **UI animations**
 - Services Details Section  
 - News & Announcements  
 - About Page
