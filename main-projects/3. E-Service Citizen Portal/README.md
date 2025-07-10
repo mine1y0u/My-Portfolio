@@ -126,7 +126,7 @@
 <br>
 
 ## 🎥 Prototype UI Preview
-- [View here in Figma the Mockup of E-Service Citizen Portal](https://www.figma.com/proto/FGKGYBLfnJtzbciJ7JICRg/E-Services-Citizen-Portal--For-Portfolio-?node-id=1082-3517&t=U7XwkIfRMeXhvfzm-1&scaling=scale-down&content-scaling=fixed&page-id=816%3A497&starting-point-node-id=1157%3A18524&show-proto-sidebar=1)
+- [View here in Figma the Mockup of E-Service Citizen Portal](https://www.figma.com/proto/FGKGYBLfnJtzbciJ7JICRg/E-Service-Citizen-Portal--For-Portfolio-?node-id=1082-2817&t=906eMcu93tIMywom-1&scaling=scale-down&content-scaling=fixed&page-id=816%3A497&starting-point-node-id=1082%3A2817&show-proto-sidebar=1)
 
 <br>
 
