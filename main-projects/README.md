@@ -18,8 +18,9 @@
 ---
 
 ### 🛠 Tools & Languages Used for the Projects
-- **🖋️ Languages:** HTML, CSS, and JavaScript
+- **🖋️ Languages:** HTML, CSS, JavaScript, PHP
 - **🎨 Design & Prototyping:** Figma
+- **🗄️ Database:** MySQL
 - **🧰 Development Tools:** Visual Studio Code (VS Code)
 
 <br>
@@ -43,7 +44,7 @@
 
 ### 📍 [**E-Service Citizen Portal** *(Collaborative Work)*](https://github.com/mine1y0u/My-Portfolio/tree/main/main-projects/3.%20E-Service%20Citizen%20Portal)
 
-<p align="justify">A collaborative project for both <b>Web Development</b> and <b>Human Computer Interaction</b> course. It was built using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, and designed in <b>Figma</b> for mockups and UI planning. This project is a website made for a local municipality or community, offering service request forms and a status tracker for submitted requests.</p>
+<p align="justify">A collaborative project for both <b>Web Development</b> and <b>Human Computer Interaction</b> courses. It was built using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b>, and <b>MySQL</b> for the database, and designed in <b>Figma</b> for mockups and UI planning. This project is a website made for a local municipality or community, offering service request forms and a status tracker for submitted requests.</p>
 
  ---
 
