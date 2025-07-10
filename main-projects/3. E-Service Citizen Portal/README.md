@@ -1,7 +1,7 @@
 <h1 align="center"><b>🌟 E-Service Citizen Portal 🌟</b> <br> <i>(Collaborative Work)</i></h1>
 
 ### 💫 Intro
-<p align="justify">A collaborative project for both <b>Web Development</b> and <b>Human Computer Interaction</b> course. It was built using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>, and designed in <b>Figma</b> for mockups and UI planning. This project is a website made for a local municipality or community, offering service request forms and a status tracker for submitted requests.</p>
+<p align="justify">A collaborative project for both <b>Web Development</b> and <b>Human Computer Interaction</b> courses. It was built using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b>, and <b>MySQL</b> for the database, and designed in <b>Figma</b> for mockups and UI planning. This project is a website made for a local municipality or community, offering service request forms and a status tracker for submitted requests.</p>
 
 <br>
 <p align="center">⋆⋅☆⋅⋆ ───────────────────── ⋆⋅☆⋅⋆ ───────────────────── ⋆⋅☆⋅⋆</p>
@@ -14,7 +14,7 @@
 
 ## 🍀 My Contributions
 #### 💻 Web Development:
-- Assisted heavily with **CSS styling** and the **overall visual design**
+- Assisted heavily with **CSS styling**, **overall visual design**, and **UI animations**
 - Services Details Section  
 - News & Announcements  
 - About Page
@@ -29,7 +29,7 @@
 - Ensured layout consistency and enhanced overall user experience
 
 ## 🛠 Tool & Languages Used
-![Figma](https://img.shields.io/badge/figma-%237A3B7C.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-322F74.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23432474.svg?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF) ![HTML5](https://img.shields.io/badge/html5-%23271338.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%230F0D3E.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%237A3B7C.svg?style=for-the-badge&logo=figma&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-322F74.svg?style=for-the-badge&logo=visualstudio&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23432474.svg?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF) ![HTML5](https://img.shields.io/badge/html5-%23271338.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%230F0D3E.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%231F1B53.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-404E8A.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🖼️ Screenshots
 
