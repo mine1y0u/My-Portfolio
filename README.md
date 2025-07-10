@@ -24,8 +24,9 @@
 ---
 
 ### 🛠 Tools & Languages Used for the Projects
-- **🖋️ Languages:** HTML, CSS, JavaScript, Java, C++, C#
+- **🖋️ Languages:** HTML, CSS, JavaScript, Java, C++, C#, PHP
 - **🎨 Design & Prototyping:** Figma
+- **🗄️ Database:** MySQL
 - **🧰 Development Tools:** Visual Studio Code (VS Code), Visual Studio, OnlineGDB
 
 <br>
